@@ -1,0 +1,1 @@
+Built a sales dashboard for Ferns & Petals using Power BI, SQL, and Excel. Performed data extraction, cleaning, transformation, and modeling to ensure accuracy. Analyzed sales trends, product performance, and customer behavior, delivering interactive visualizations for data-driven decisions.
